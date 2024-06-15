@@ -12,6 +12,7 @@ mqtt_data = {
     "battPercentage": 46,
     "temperature": 400
 }
+# testing for GITHUB
 
 # Create a DataFrame from the MQTT data
 df = pd.DataFrame([mqtt_data])
